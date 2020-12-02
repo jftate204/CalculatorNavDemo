@@ -1,0 +1,6 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="de.oge.fioristarterpack.zjte_training.controller.View2" displayBlock="true">
+	<Page id="page2" title="View2" navButtonPress="onGoBack" showNavButton="true">
+		<content>					    
+		</content>
+	</Page>
+</mvc:View>
